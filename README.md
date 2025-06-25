@@ -18,7 +18,7 @@
 🎓 MCA Student at **Lovely Professional University**  
 👨‍💻 Passionate Full Stack Developer  
 🔭 I love building scalable web apps and solving real-world problems  
-🌱 Currently diving deeper into the MERN Stack & Cloud Technologies  
+🌱 Currently diving deeper into the MERN Stack  
 🎯 Goal-Oriented | Problem Solver | Tech Enthusiast
 
 ---
