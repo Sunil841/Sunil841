@@ -76,7 +76,7 @@ A full-featured restaurant management system to manage orders, billing, and rese
 
 ## 🎓 Education
 
-- 🎓 **MCA**, Lovely Professional University — *7.20 CGPA* (2024–Present)  
+- 🎓 **MCA**, Lovely Professional University — *8.06 CGPA* (2024–Present)  
 - 🎓 **BCA**, Agra College — *71.4%* (2021–2024)
 
 ---
